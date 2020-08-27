@@ -1,5 +1,5 @@
 <p align="center">
- <img width="400px" src="https://tenor.com/view/naruto-gif-7918600" align="center" alt="narutoScream" />
+ <img width="400px" src="https://github.com/jongjam/jongjam/tree/master/imggif/tenor.gif" align="center" alt="narutoScream" />
   
  <h1 align="center">Hi, I'm Jimmy!</h1>
  <h3 align="center">Electrical Engineering Student and Aspiring Embedded Systems Engineer</h3>
