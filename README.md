@@ -18,7 +18,7 @@
 <p align="center">
    <h2>📫 How to Reach Me</h2>
 
-   1. [LinkedIn](www.linkedin.com/in/james-jhong-1a980b195)
+   1. [LinkedIn]((www.linkedin.com/in/james-jhong-1a980b195))
    2. [Email: jongjam67@outlook.com](mailto:jongjam67@outlook.com)
    
    <p align="center"</p>
