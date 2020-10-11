@@ -12,7 +12,8 @@
 - Currently an Electrical Engineering Undergrad at the University of Washington Class of 2023.  
 - I’m currently working on creating a scalable platform for my future web applications. 
 - I’m currently learning more about C++ and React JS. Also learning about personal finance and Mandarin on the side.
-- Things I like to do include boxing, yoga, swimming, cooking, fishing, coding, reading, and video games.    
+- Things I like to do include boxing, yoga, swimming, cooking, fishing, coding, reading, and video games. 
+- My name is really James, I just go by Jimmy.
 
 <br>
 <p align="center">
