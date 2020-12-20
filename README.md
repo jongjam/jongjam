@@ -20,7 +20,7 @@
    <h2>📫 How to Reach Me</h2>
 
    1. [LinkedIn](https://www.linkedin.com/in/james-jhong-1a980b195/)
-   2. [Email: jongjam67@outlook.com](mailto:jongjam67@outlook.com)
+   2. [Email: jongjam64@gmail.com](mailto:jongjam64@gmail.com)
    
    <p align="center"</p>
 </p>
