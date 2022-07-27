@@ -11,13 +11,12 @@
 
 - Currently an Electrical Engineering Undergrad at the University of Washington Class of 2023.  
 - I’m currently working on creating a scalable platform for my future web applications. 
-- I’m currently learning more about C++ and React JS. Also learning about personal finance and Mandarin on the side.
-- Things I like to do include boxing, yoga, swimming, cooking, fishing, coding, reading, and video games. 
-- My name is really James, I just go by Jimmy.
+- I’m currently learning more about C++ and React JS. 
+- Things I like to do include boxing, yoga, swimming, cooking, fishing, coding, reading, and video games.
 
 <br>
 <p align="center">
-   <h2>📫 How to Reach Me</h2>
+   <h2>📫 How to contact Me</h2>
 
    1. [LinkedIn](https://www.linkedin.com/in/james-jhong-1a980b195/)
    2. [Email: jongjam64@gmail.com](mailto:jongjam64@gmail.com)
