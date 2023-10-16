@@ -9,7 +9,7 @@
 
 <h2>😎 About Me</h2>
 
-- Currently a Computer & Electrical Engineering Undergrad at the University of Washington Class of 2023.  
+- Graduate of Computer & Electrical Engineering Undergrad at the University of Washington Class of 2023.  
 - I’m currently working on creating a scalable platform for my future web applications. 
 - I’m currently learning more about C++ and React JS. 
 - Things I like to do include boxing, yoga, swimming, cooking, fishing, coding, reading, and video games.
