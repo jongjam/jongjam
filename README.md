@@ -29,9 +29,7 @@
    <h2>👀 Some cool stats</h2>
    <br>
 
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongjam&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongjam&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
    <p align="center"</p>
 </p>
