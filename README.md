@@ -2,7 +2,7 @@
  <img width="400px" src="https://github.com/jongjam/jongjam/blob/master/imggif/jojo.gif" align="center" alt="narutoScream" />
   
  <h1 align="center">Hi, I'm Jimmy!</h1>
- <h3 align="center">Computer & Electrical Engineering Student and Aspiring Software Engineer</h3>
+ <h3 align="center">Computer & Electrical Engineering Graduate and Aspiring Software Engineer</h3>
  <p align="center"</p>
 </p>
 <br>
@@ -11,7 +11,7 @@
 
 - Graduate of Computer & Electrical Engineering Undergrad at the University of Washington Class of 2023.  
 - I’m currently working on creating a scalable platform for my future web applications. 
-- I’m currently learning more about C++ and React JS. 
+- I’m currently learning more automation, web development and flight data analytics. 
 - Things I like to do include boxing, yoga, swimming, cooking, fishing, coding, reading, and video games.
 
 <br>
