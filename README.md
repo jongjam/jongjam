@@ -19,7 +19,6 @@
    <h2>📫 How to contact Me</h2>
 
    1. [LinkedIn](https://www.linkedin.com/in/james-jhong-1a980b195/)
-   2. [Email: jongjam64@gmail.com](mailto:jongjam64@gmail.com)
    
    <p align="center"</p>
 </p>
